@@ -49,7 +49,7 @@ CogniVersa provides a WebSocket API for the client app to interact with the serv
 The client app handles the UI and displays data received from the server.
 
 <h4> Simple client app</h4>
-You can see simple <a href = "blob/main/examples/simple_app.py">python app</a> code
+You can see simple <a href = "examples/simple_app.py">python app</a> code
 
 ## 📝 License
 
